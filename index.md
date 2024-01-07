@@ -1,29 +1,36 @@
-# XXXI Encontro Nacional de Astronomia e Astrofísica
+# XXXIV Encontro Nacional de Astronomia e Astrofísica
+
+<div style="text-align: center; font-size: 24px; font-weight: bold">
+Preliminary Website version</a>.
+</div>
+<br>
+<br>
+
+
 
 <div style="text-align: justify">
-The 31st edition of the National Astronomy and Astrophysics Meeting (ENAA XXXI) will be held as a virtual conference on 8th-10th September 2021. This meeting
-is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA).
+The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024.
 </div>
 <br>
 <br>
-<div style="text-align: center; font-size: 24px; font-weight: bold">
+<!-- <div style="text-align: center; font-size: 24px; font-weight: bold">
 Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: steelblue"> here</a>. <br> The preliminary program can be found <a href=program  style="color: steelblue"> here</a>.
-</div>
+</div> -->
 <br>
 <br>
 
-<div style="text-align: center; font-size: 24px; font-weight: bold; color: crimson">
+<!-- <div style="text-align: center; font-size: 24px; font-weight: bold; color: crimson">
 All posters are accepted. <br> They are all eligible for the best posters prize.
 </div>
 <br>
-<br>
+<br> -->
 
-## Format
+<!-- ## Format
 <div style="text-align: justify">
 Online meeting (Zoom) with Slack poster sessions. More details will be provided closer to the meeting.
-</div><br>
+</div><br> -->
 
-## Fee
+<!-- ## Fee
 <div style="text-align: justify">
 The conference will have a registration fee of 10€ (with waivers for some participants), which should be payed by wire transfer to the following account:
 <br>
@@ -32,15 +39,15 @@ The conference will have a registration fee of 10€ (with waivers for some part
 <b>BIC/SWIFT</b>: CGDIPTPL
 <br>
 <br>
-A proof of payment should be sent to to <a href="mailto:enaaxxxi@gmail.com">enaaxxxi@gmail.com</a>. Please include your name and institute in the e-mail if you are sending the proof with a different e-mail than what was used for the registration. For more information see the <a href=registration_gform style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline">registration</a> page. 
+A proof of payment should be sent to to <a href="mailto:enaaxxxi@gmail.com">enaaxxxi@gmail.com</a>. Please include your name and institute in the e-mail if you are sending the proof with a different e-mail than what was used for the registration. For more information see the <a href=registration_gform style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline">registration</a> page.  -->
 
-For any questions/comments/doubts please, do not hesitate to contact the VOC: <a href="mailto:enaaxxxi@gmail.com">enaaxxxi@gmail.com</a>.
+For any questions/comments/doubts please, do not hesitate to contact the LOC: <a href="mailto:enaaxxxiv@gmail.com">enaaxxxiv@gmail.com</a>.
 </div><br>
 
-## Awards 
+<!-- ## Awards 
 <div style="text-align: justify">
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.
-</div><br>
+</div><br> -->
 
 
 ## Scientific topics
@@ -55,27 +62,14 @@ The fees will be used to create awards to be given to the best posters and talks
 <br>
 
 ## Scientific Organizing Committee
-- Ana Paulino-Afonso (co-Chair; CENTRA/IST; Galaxy Evolution)
-- André Moitinho (CENTRA/FCUL, SPA; Galaxy, Data Mining)
-- David Sobral (co-Chair; U. Lancaster, SPA; Galaxy Evolution)
-- Elisabete da Cunha (ICRAR/University of Western Australia; Galaxy Evolution)
-- Koraljka Muzic  (CENTRA/FCUL; Star-formation)
-- Gabriela Gilli (IA/FCUL; Solar System)
-- Jorge Martins (IA/CAUP; Exoplanets, Stars)
-- Lluis Galbany (U. Granada; Supernova/Transients)
-- Marina Cortês (IA/FCUL; Cosmology)
-- Paulo Garcia (CENTRA/FEUP; Instrumentation)
-- Rosa Doran (NUCLIO, CITEUC/UC; Science Education)
-- Sandra Raimundo (DARK/Niels Bohr Institute/Southampton; Active Galactic Nuclei)
-- Zita Martins (CQE/IST; Astrobiology)
+- Ana Paulino-Afonso (co-Chair; IA-CAUP; Galaxy Evolution)
+- José Fonseca (co-Chair; IA-CAUP; Cosmology)
 <br>
 <br>
 
-## (Virtual) Organizing Committee 
-- Alberto Krone-Martins (U. Irvine; CENTRA/SIM)
-- Ana Paulino-Afonso (co-Chair; CENTRA/IST)
-- Bruno Ribeiro (DTx-CoLab)
-- David Sobral (co-Chair; U. Lancaster, SPA)
+## Local Organizing Committee 
+- Ana Paulino-Afonso (co-Chair; IA-CAUP)
+- José Fonseca (co-Chair IA-CAUP)
 <br>
 <br>
 
