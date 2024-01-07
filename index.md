@@ -77,4 +77,4 @@ ENAA meetings are meant to be a privileged occasion for free and frank interchan
 We aim to provide a harassment-free conference experience for everyone, regardless of sex, gender identity, sexual orientation, marital or parental status, age, disability, race, religion or physical appearance. We will not tolerate harassment of conference participants in any form. All communication should be appropriate for a professional audience, including people of many different backgrounds. Sexual language and imagery are not appropriate for any conference venue, including talks. Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, ableist or other exclusionary jokes are not appropriate for a work environment. Attendees violating these rules will be asked to leave the conference, without a refund, at the sole discretion of the Organizing Committee.
 </div>
 ___
- <p><small>Logo &mdash; Credit: Space Scoop; Ana Paulino-Afonso</small></p>
+ <p><small>Logo &mdash; Credit: memento.pt; Ana Paulino-Afonso</small></p>
