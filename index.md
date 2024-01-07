@@ -1,18 +1,14 @@
 # XXXIV Encontro Nacional de Astronomia e Astrofísica
 
-<div style="text-align: center; font-size: 24px; font-weight: bold">
-Preliminary Website version</a>.
+<div style="text-align: center; font-size: 24px; font-weight: bold; color: navy">
+Preliminary Website version.
 </div>
 <br>
 <br>
-
-
 
 <div style="text-align: justify">
 The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024.
 </div>
-<br>
-<br>
 <!-- <div style="text-align: center; font-size: 24px; font-weight: bold">
 Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: steelblue"> here</a>. <br> The preliminary program can be found <a href=program  style="color: steelblue"> here</a>.
 </div> -->
