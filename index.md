@@ -2,22 +2,22 @@
 
 
 <div style="text-align: justify">
-The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024. For more information on the venue and hot to get there, visit our <a href=guide  style="color: steelblue"> guide page</a>.
-</div>
+The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024. For more information on the venue and how to get there, visit our <a href=guide  style="color: #00b050"> guide page</a>.
+</div> <br>
 
 <div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
 Abstract submission and registration are now open!
-</div>
+</div> <br>
 
-<div style="text-align: justify">
-You can register for the conference <a href=registration_gform  style="color: steelblue"> here</a> and submit your abstract proposal <a href=abstract_gform  style="color: steelblue"> here</a>.
+<div style="text-align: center; font-size: 22px; font-weight: bold">
+You can register for the conference <a href=registration_gform  style="color: #00b050"> here</a> and submit your abstract proposal <a href=abstract_gform  style="color: #00b050"> here</a>.
 </div><br> 
 
 <!-- <div style="text-align: center; font-size: 24px; font-weight: bold">
-Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: steelblue"> here</a>. <br> The preliminary program can be found <a href=program  style="color: steelblue"> here</a>.
+Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: #00b050"> here</a>. <br> The preliminary program can be found <a href=program  style="color: #00b050"> here</a>.
 </div> -->
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 <!-- <div style="text-align: center; font-size: 24px; font-weight: bold; color: crimson">
 All posters are accepted. <br> They are all eligible for the best posters prize.
