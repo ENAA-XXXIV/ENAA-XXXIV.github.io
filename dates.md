@@ -1,8 +1,13 @@
 # Important Dates
-<span style="color:gray">Last updated, January 7th 2024</span>
+<span style="color:gray">Last updated, April 8th 2024</span>
 
 Below is a list of the most important dates for this conference.
 
 
-- **January 8th - Dates announced**{: style="color: steelblue; opacity: 1.00;" }
-- *September 12-14* - ENAA XXXIV
+- *January 8th* - Dates announced
+- **April 8: official announcement and opening of abstract submissions**{: style="color: #00b050; opacity: 1.00;" }
+- *June 7*: deadline for talk and poster abstract submissions
+- *July 1*: announcement of selected submissions and preliminary program release
+- *September 6*: late poster submission and registration deadline
+- *September 9-11*: ENAA 2024 posters and discussions kick-start on Slack
+- *September 12-14*: ENAA 2024 takes place. Join us!

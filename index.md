@@ -1,14 +1,19 @@
 # XXXIV Encontro Nacional de Astronomia e Astrofísica
 
-<div style="text-align: center; font-size: 24px; font-weight: bold; color: navy">
-Preliminary Website version.
-</div>
-<br>
-<br>
 
 <div style="text-align: justify">
-The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024.
+The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024. For more information on the venue and hot to get there, visit our <a href=guide  style="color: steelblue"> guide page</a>.
 </div>
+
+<div style="text-align: center; font-size: 32px; font-weight: bold; color: #00b050">
+Abstract submission and registration are now open!
+</div>
+
+<div style="text-align: justify">
+You can register for the conference <a href=registration_gform  style="color: steelblue"> here</a> and submit your abstract proposal <a href=abstract_gform  style="color: steelblue"> here</a>.
+
+</div><br> -->
+
 <!-- <div style="text-align: center; font-size: 24px; font-weight: bold">
 Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: steelblue"> here</a>. <br> The preliminary program can be found <a href=program  style="color: steelblue"> here</a>.
 </div> -->
@@ -53,20 +58,30 @@ The fees will be used to create awards to be given to the best posters and talks
 - Cosmology & Gravitation
 - Galactic & Extragalactic Astronomy
 - Planetary Science & Extrasolar planets
-- Science Communication & Education, and History of Astronomy
+- Science Communication & Education and History of Astronomy
 - Solar & Stellar Physics
 <br>
 <br>
 
 ## Scientific Organizing Committee
-- Ana Paulino-Afonso (co-Chair; IA-CAUP; Galaxy Evolution)
-- José Fonseca (co-Chair; IA-CAUP; Cosmology)
+- Ana Brito (Centra/IST, PT)
+- Ana Duarte Cabral (Cardiff, UK)
+- Ana Paulino-Afonso (IA/CAUP, PT; Co-Chair)
+- Constança Providência (CFisUC, PT)
+- Gustavo Rojas (NUCLIO, PT)
+- João da Silva Santos (NSO, EUA)
+- José Afonso (IA/FCUL, PT)
+- Mercedes Filho (Centra/FEUP, PT)
+- Miguel Zilhão (UAveiro, PT)
+- José Fonseca (IA/CAUP, PT; Co-Chair)
+- Susana Barros (IA/CAUP, PT)
+- Zita Martins (CQE/IST, PT)
 <br>
 <br>
 
 ## Local Organizing Committee 
-- Ana Paulino-Afonso (co-Chair; IA-CAUP)
-- José Fonseca (co-Chair IA-CAUP)
+- Ana Paulino-Afonso (IA/CAUP, PT; Co-Chair)
+- José Fonseca (IA/CAUP, PT; Co-Chair)
 <br>
 <br>
 
@@ -77,4 +92,3 @@ ENAA meetings are meant to be a privileged occasion for free and frank interchan
 We aim to provide a harassment-free conference experience for everyone, regardless of sex, gender identity, sexual orientation, marital or parental status, age, disability, race, religion or physical appearance. We will not tolerate harassment of conference participants in any form. All communication should be appropriate for a professional audience, including people of many different backgrounds. Sexual language and imagery are not appropriate for any conference venue, including talks. Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, ableist or other exclusionary jokes are not appropriate for a work environment. Attendees violating these rules will be asked to leave the conference, without a refund, at the sole discretion of the Organizing Committee.
 </div>
 ___
- <p><small>Logo &mdash; Credit: memento.pt; Ana Paulino-Afonso</small></p>
