@@ -17,4 +17,4 @@ For any questions/comments/doubts please, do not hesitate to contact the LOC: [e
 
 To register for the virtual ENAA XXXIV conference please use the form below.
 
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cy_SoJ8kA2pAlqOm2WV3P7CbXE-bONxLmA2FlzOWZJ8SMw/viewform?embedded=true" width="90%" height="1910" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHcUQfJ0LUnoNHLu0vK_AfnW-k6V6NxCdJ7t-C5hx-shis5g/viewform?embedded=true" width="95%" height="2033" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
