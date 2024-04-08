@@ -1,6 +1,6 @@
 # General Information
 
-Here you can find some useful information on the conference location and host city.
+Here you can find some useful information on the conference location the host city of [Guimarães](https://www.visitguimaraes.travel/inicio#).
 
 ## Venue 
 
