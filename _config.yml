@@ -2,5 +2,5 @@ title:
 logo: /assets/images/banner.png
 description: Page with information on ENAA XXXIV.
 show_downloads: false
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
