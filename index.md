@@ -81,6 +81,7 @@ The fees will be used to create awards to be given to the best posters and talks
 ## Local Organizing Committee 
 - Ana Paulino-Afonso (IA/CAUP, PT; Co-Chair)
 - José Fonseca (IA/CAUP, PT; Co-Chair)
+- Pedro Cunha (IA/CAUP)
 <br>
 <br>
 
