@@ -1,6 +1,6 @@
 # Abstract Submission
 
-Use the form below to sumbit your proposal for a contributed talk or poster.
+Use the form below to submit your proposal for a contributed talk or poster.
 
 
 We highly encourage in-person attendance. However, for exceptional circumstances, there is a possibility to propose a virtual talk. If you select this option, please provide a justification. Each proposal will be evaluated on an individual basis.
