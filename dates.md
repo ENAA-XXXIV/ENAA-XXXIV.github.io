@@ -4,7 +4,6 @@
 Below is a list of the most important dates for this conference.
 
 
-- *January 8th* - Dates announced
 - **April 9th: official announcement and opening of abstract submissions**{: style="color: #00b050; opacity: 1.00;" }
 - *June 7th*: deadline for talk and poster abstract submissions
 - *July 1st*: announcement of selected submissions and preliminary program release
