@@ -63,7 +63,7 @@ The fees will be used to create awards to be given to the best posters and talks
 <br>
 
 ## Scientific Organizing Committee
-- Ana Brito (Centra/IST, PT)
+- Ana Brito (Centra/ISG, PT)
 - Ana Duarte Cabral (Cardiff, UK)
 - Ana Paulino-Afonso (IA/CAUP, PT; Co-Chair)
 - Constança Providência (CFisUC, PT)

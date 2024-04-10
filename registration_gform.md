@@ -1,7 +1,7 @@
 # Register for the conference
+<span style="color:gray">Last updated, April 10th</span>
 
 ## Conference Fees
-<span style="color:gray">Last updated, April 10th</span>
 
 <div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
 The registration fee will be announced soon.
