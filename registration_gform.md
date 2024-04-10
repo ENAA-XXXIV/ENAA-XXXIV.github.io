@@ -1,8 +1,21 @@
 # Register for the conference
 
-## Information on payment
+## Conference Fees
+<span style="color:gray">Last updated, April 10th</span>
 
-<!-- The registration fee for this conference is 10€.  -->
+<div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
+The registration fee will be announced soon.
+</div> <br>
+
+
+| Registration Type        | Fee |
+| ----------- | ----------- |
+| Regular |  TBD |
+| SPA Member |  TBD |
+| BSc/MSc/PhD Student |  TBD |
+| Virtual | TBD | 
+
+## Information on payment
 
 Payments should be done by wire transfer to the following account:
 
@@ -15,6 +28,6 @@ For any questions/comments/doubts please, do not hesitate to contact the LOC: [e
 
 ## Registration form
 
-To register for the virtual ENAA XXXIV conference please use the form below.
+To register for the ENAA XXXIV conference please use the form below.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdHcUQfJ0LUnoNHLu0vK_AfnW-k6V6NxCdJ7t-C5hx-shis5g/viewform?embedded=true" width="95%" height="2033" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
