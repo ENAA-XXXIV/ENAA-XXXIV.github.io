@@ -1,19 +1,16 @@
 # Register for the conference
-<span style="color:gray">Last updated, April 10th</span>
+<span style="color:gray">Last updated, April 15th</span>
 
 ## Conference Fees
 
-<div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
-The registration fee will be announced soon.
-</div> <br>
-
+The registration fees for ENAA XXXIV are listed below.
 
 | Registration Type        | Fee |
 | ----------- | ----------- |
-| Regular |  TBD |
-| SPA Member |  TBD |
-| BSc/MSc/PhD Student |  TBD |
-| Virtual | TBD | 
+| Regular |  70€ |
+| SPA Member |  60€ |
+| BSc/MSc/PhD Student |  40€ |
+| Virtual | 15€ | 
 
 ## Information on payment
 
