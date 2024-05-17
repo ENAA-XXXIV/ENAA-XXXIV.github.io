@@ -11,7 +11,6 @@ The registration fees for ENAA XXXIV are listed below.
 | SPA Member |  60€ |
 | BSc/MSc/PhD Student |  40€ |
 | Session on Communication and Education (3rd day only) | 15€ |
-<!-- | Virtual | 15€ |  -->
 
 ## Information on payment
 
