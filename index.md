@@ -2,7 +2,9 @@
 
 
 <div style="text-align: justify">
-The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024. For more information on the venue and how to get there, visit our <a href=guide  style="color: #00b050"> guide page</a>.
+The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV) will be held in Guimarães, Portugal on September 12-14th 2024. The third day of the meeting (14th) will be fully dedicated to Science Communication & Education and History of Astronomy, and there will be a certified course for school teachers. 
+
+For more information on the venue and how to get there, visit our <a href=guide  style="color: #00b050"> guide page</a>.
 </div> <br>
 
 <div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
