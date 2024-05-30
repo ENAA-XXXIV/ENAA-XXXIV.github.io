@@ -1,8 +1,8 @@
 # Ação de formação de curta duração
 
-Durante o XXXIV Encontro Nacional de Astronomia e Astrofísica (ENAA2024), será realizada a ação de curta duração "Comunicação e Educação Científica e História da Astronomia”, no dia 14 de setembro, das 9h às 13h00, dirigida a professores e educadores dos ensinos básico e secundário.
+Durante o XXXIV Encontro Nacional de Astronomia e Astrofísica (ENAA2024), será realizada a ação de curta duração _"Comunicação e Educação Científica e História da Astronomia”_, no dia 14 de setembro, das 9h às 13h00, dirigida a professores e educadores dos ensinos básico e secundário.
 
-<div style="text-align: center; font-size: 22px; font-weight: bold">
+<div style="text-align: center; font-size: 20px; font-weight: bold">
 Para registar para a conferência <a href=registration_gform  style="color: #00b050"> clique aqui </a> e para submeter um resumo para contribuição oral e/ou poster <a href=abstract_gform  style="color: #00b050"> clique aqui</a>.
 </div><br> 
 
