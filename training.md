@@ -9,14 +9,14 @@ Os participantes adquirirão novos conhecimentos sobre a investigação recente 
 </div> <br>
 
 <div style="text-align: center; font-size: 20px; font-weight: bold">
-Para registar para a conferência <a href=registration_gform  style="color: #00b050"> clique aqui </a> e para submeter um resumo para contribuição oral e/ou poster <a href=abstract_gform  style="color: #00b050"> clique aqui</a>.
+Para registar para a conferência <a href=registration_gform  style="color: #00b050"> clique aqui </a> e para submeter um resumo para contribuição oral e/ou póster <a href=abstract_gform  style="color: #00b050"> clique aqui</a>.
 </div><br> <br>
 
 Todas as atividades deste dia da ENAA serão realizadas em português.
 
 Os prazos importantes:
 
-- **7 de junho**: apresentação de resumos para serem considerados para apresentações ou posters
+- **14 de junho**: apresentação de resumos para serem considerados para apresentações ou pósteres
 - **6 de setembro**: registo e pagamento da taxa de inscrição (15 EUR para a sessão de sábado)
 
 
