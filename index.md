@@ -8,7 +8,7 @@ For more information on the venue and how to get there, visit our <a href=guide 
 </div> <br>
 
 <div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
-Abstract submission and registration are now open!
+Abstract submission for late posters and registration are open until September 6th!
 </div> <br>
 
 <div style="text-align: center; font-size: 22px; font-weight: bold">
