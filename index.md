@@ -8,6 +8,10 @@ For more information on the venue and how to get there, visit our <a href=guide 
 </div> <br>
 
 <div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
+Preliminary program available <a href=program  style="color: #00b050"> here</a></div> 
+<br>
+
+<div style="text-align: center; font-size: 24px; font-weight: bold; color: #00b050">
 Abstract submission for late posters and registration are open until September 6th!
 </div> <br>
 
