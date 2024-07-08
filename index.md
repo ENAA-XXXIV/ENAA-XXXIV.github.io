@@ -7,7 +7,7 @@ The 34th edition of the National Astronomy and Astrophysics Meeting (ENAA XXXIV)
 For more information on the venue and how to get there, visit our <a href=guide  style="color: #00b050"> guide page</a>.
 </div> <br>
 
-<div style="text-align: center; font-size: 28px; font-weight: bold; color: #00b050">
+<div style="text-align: center; font-size: 28px; font-weight: bold">
 Preliminary program available <a href=program  style="color: #00b050"> here</a></div> 
 <br>
 
