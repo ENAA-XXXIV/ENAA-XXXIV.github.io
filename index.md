@@ -8,16 +8,8 @@ For more information on the venue and how to get there, visit our <a href=guide 
 </div> <br>
 
 <div style="text-align: center; font-size: 28px; font-weight: bold">
-Preliminary program available <a href=program  style="color: #00b050"> here</a></div> 
+The conference program is available <a href=program  style="color: #00b050"> here</a></div> 
 <br>
-
-<div style="text-align: center; font-size: 24px; font-weight: bold; color: #00b050">
-Abstract submission for late posters and registration are open until September 6th!
-</div> <br>
-
-<div style="text-align: center; font-size: 22px; font-weight: bold">
-You can register for the conference <a href=registration_gform  style="color: #00b050"> here</a> and submit your abstract proposal <a href=abstract_gform  style="color: #00b050"> here</a>.
-</div><br> 
 
 <!-- <div style="text-align: center; font-size: 24px; font-weight: bold">
 Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: #00b050"> here</a>. <br> The preliminary program can be found <a href=program  style="color: #00b050"> here</a>.
