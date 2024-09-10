@@ -8,6 +8,56 @@ The conference will take place at [Fraterna](https://www.fraterna.org/), located
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d503.56742358285464!2d-8.293301414995154!3d41.439106257514055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24efc45faa6439%3A0x588b0f7873ad0517!2sFraterna-%20Centro%20Comunit%C3%A1rio%20de%20Solidariedade%20e%20Integra%C3%A7%C3%A3o%20Social!5e1!3m2!1sen!2spt!4v1712607980540!5m2!1sen!2spt" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<br>
+<br>
+
+## Conference Dinner
+
+The Conference dinner will take place on Thursday night, **September 12th, at 20h**{: style="color: #00b050; opacity: 1.00;" } at the restaurant [Casa Amarela](https://casaamarela.pt/) - R. de Donães 24, 4800-408 Guimarães.  You can find below a map pinpointing the location of the restaurant.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95640.22993650829!2d-8.413801901106206!3d41.48786358686347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24efe9f0723ecf%3A0x59ac974e1ff0e80f!2sCASA%20AMARELA!5e0!3m2!1sen!2spt!4v1726009367358!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<br>
+<br>
+
+## Restaurants around the Venue
+
+You can find below a non-complete list of restaurants around the conference venue where you can have lunch. Click this [link](https://maps.app.goo.gl/JJcns1ZR7DjMH9JcA) to see the list on Google maps. 
+
+- **Tasquinha do Tio Júlio**: R. de Couros (2min)
+- **Pregaria Guimarães**: Av. Dom Afonso Henriques (5 min)
+- **Restaurante Etc**: R. da Ramada (4min)
+- **Le Babachris**: Largo Condessa do Juncal (6min)
+- **Taberna Trovador**: Largo do Trovador (3 min)
+- **Cervejaria Granada**: R. Mte. Caçoila (6 min)
+- **Street Food Guimarães**: R. de Donães (8 min)
+- **Prato Cheio**: R. Padre Gaspar Roriz (7 min)
+- **Churrasqueira do Toural**: Tv. de Camões (5 min)
+- **Universo das Sandes**: Alameda de São Dâmaso (7min)
+- **Green Bistrot**: R. Camilo Castelo Branco (2 min)
+- **Restaurante Mourão**: R. de Camões (6 min)
+- **Porta Larga**: R. da Caldeirôa (7 min)
+- **Pausa Restaurante**: Av. Dom João IV (5 min)
+- **Taberna do Camões**: Tv. de Camões (6 min)
+- **Ramada 1930**: R. da Ramada (4 min)
+- **Sala 141**: Av. Dom Afonso Henriques (4 min)
+- **Cervejaria Martins Sports Bar**: Largo do Toural (6 min)
+- **Sonetos**: R. de Camões (6 min)
+- **Paco’s Kitchen**: Alameda de São Dâmaso (7 min)
+- **Recanto Snack Bar**: R. da Caldeirôa (6 min)
+- **Chez Pastel**: R. de Vila Flor (5 min)
+- **Cristo Rei**: Largo Bernardo Valentim (5 min)
+- **Vila Flor**: Av. Dom Afonso Henriques (8 min)
+- **Soul Street Burger**: Alameda de São Dâmaso (7 min)
+- **Recanto 93**: R. Rainha Dona Maria II (8 min)
+- **Marco Bellini è que sabe!**: R. de Donães (8 min)
+
+![<img src="assets/images/lunch_suggestions.png"](https://maps.app.goo.gl/JJcns1ZR7DjMH9JcA)
+
+<br>
+<br>
+
+
 ## How to get here 
 
 #### By train 
