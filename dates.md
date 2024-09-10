@@ -1,5 +1,5 @@
 # Important Dates
-<span style="color:gray">Last updated, April 8th 2024</span>
+<span style="color:gray">Last updated, September 9th 2024</span>
 
 Below is a list of the most important dates for this conference.
 
