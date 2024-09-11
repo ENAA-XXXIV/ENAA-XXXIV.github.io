@@ -52,6 +52,8 @@ You can find below a non-complete list of restaurants around the conference venu
 - **Recanto 93**: R. Rainha Dona Maria II (8 min)
 - **Marco Bellini è que sabe!**: R. de Donães (8 min)
 
+<br>
+
 <p align="center">
   <a href="https://maps.app.goo.gl/JJcns1ZR7DjMH9JcA">
     <img src="assets/images/lunch_suggestions.png" alt="Lunch suggestions" style="width: 80%; height: auto;">
