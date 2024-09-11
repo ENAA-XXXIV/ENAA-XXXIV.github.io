@@ -19,8 +19,8 @@
 
 <body>
 
-  <div class="wrapper">
-      <header>
+  <div class="wrapper" style="overflow-y:auto">
+      <header >
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -60,12 +60,16 @@
         </ul>
         
         <ul class="downloads">
+          <a href="poster_gallery"> Posters </a>
+        </ul>
+
+        <!-- <ul class="downloads">
           <a href="registration_gform"> Registration </a>
         </ul>
 
         <ul class="downloads">
           <a href="abstract_gform"> Abstract Submission </a>
-        </ul>
+        </ul> -->
 
         <ul class="downloads">
           <a href="participants"> Participants </a>

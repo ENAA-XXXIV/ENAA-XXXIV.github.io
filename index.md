@@ -60,6 +60,28 @@ The fees will be used to create awards to be given to the best posters and talks
 </div><br> -->
 
 
+## Conference Fees
+
+The registration fees for ENAA XXXIV are listed below.
+
+| Registration Type        | Fee |
+| ----------- | ----------- |
+| Regular |  70€ |
+| SPA Member |  60€ |
+| BSc/MSc/PhD Student |  40€ |
+| Session on Communication and Education (3rd day only) | 15€ |
+
+## Information on payment
+
+Payments should be done by wire transfer to the following account:
+
+**IBAN**: PT50 0035 0194 00003196330 71 <br>
+**BIC/SWIFT**: CGDIPTPL
+
+<div style="text-align: justify">
+A proof of payment should be sent to to [enaaxxxiv@gmail.com](mailto:enaaxxxiv@gmail.com). Please include your name and institute in the e-mail if you are sending the proof of payment with a different e-mail than what was used for the registration. Confirmation of a successful registration will be sent by e-mail.
+</div>
+
 ## Scientific topics
 - Astrobiology & Astrochemistry
 - Astronomical Instrumentation

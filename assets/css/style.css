@@ -231,7 +231,7 @@ ul.downloads{
     margin-left:auto;
     margin-right:auto;
     list-style:none;
-    height:30px;
+    height:27px;
     padding:0px;
     background:#ffffff;
     border-radius:5px;
@@ -243,7 +243,7 @@ ul.downloads{
     width:89px;
     float:left;
     border-right:1px solid #e0e0e0;
-    height:30px
+    height:27px
 }
 
 .downloads li:first-child a{
@@ -256,12 +256,12 @@ ul.downloads{
 
 .downloads a{
     line-height:1;
-    font-size:15px;
+    font-size:14px;
     color:#062a45;
     display:block;
     text-align:center;
     padding-top:7.5px;
-    height:30px
+    height:27px
 }
 
 .downloads a:hover,.downloads a:focus{
