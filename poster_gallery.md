@@ -75,7 +75,7 @@ You can find a gallery of the posters for this conference below. Click on the im
 </a>
 <div class="name">F. Alves</div>
 <div>
-<a href=https://enaa-xxxiv.github.io/abstract_book#abs-2> Product Design for Scientific Literacy: development of a multifunctional orrery for cognitive stimulation </a>
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-2"> Product Design for Scientific Literacy: development of a multifunctional orrery for cognitive stimulation </a>
 </div>
 </div>
 
@@ -85,7 +85,7 @@ You can find a gallery of the posters for this conference below. Click on the im
 </a>
 <div class="name">T. Canhota</div>
 <div>
-<a href=https://enaa-xxxiv.github.io/abstract_book#abs-12> OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO </a>
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-12"> OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO </a>
 </div>
 </div>
 
@@ -95,17 +95,17 @@ You can find a gallery of the posters for this conference below. Click on the im
 </a>
 <div class="name">T. Monteiro</div>
 <div>
-<a href=https://enaa-xxxiv.github.io/abstract_book#abs-45> The stellar activity in stars with exoplanets </a>
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-45"> The stellar activity in stars with exoplanets </a>
 </div>
 </div>
 
 <div class="gallery">
 <a target="_blank" href="assets/posters/poster-id-66.pdf">
-    <img src="assets/posters/poster-id-66.png" alt="Poster <i>"A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk"</i> by S. Vicente">
+    <img src="assets/posters/poster-id-66.png" alt="Poster <i>A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk</i> by S. Vicente">
 </a>
 <div class="name">S. Vicente</div>
 <div>
-<a href=https://enaa-xxxiv.github.io/abstract_book#abs-66> "A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk" </a>
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-66"> A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk </a>
 </div>
 </div>
 
