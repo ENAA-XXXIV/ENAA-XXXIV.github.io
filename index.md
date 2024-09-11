@@ -11,9 +11,14 @@ For more information on the venue and how to get there, visit our <a href=guide 
 The conference program is available <a href=program  style="color: #00b050"> here</a></div> 
 <br>
 
-<!-- <div style="text-align: center; font-size: 24px; font-weight: bold">
-Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: #00b050"> here</a>. <br> The preliminary program can be found <a href=program  style="color: #00b050"> here</a>.
-</div> -->
+<div style="text-align: center; font-size: 24px; font-weight: bold">
+Find information on the conference dinner and other useful tips <a href=program  style="color: #00b050"> here</a></div> 
+<br>
+
+<div style="text-align: center; font-size: 22px; font-weight: bold">
+Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: #00b050"> here</a>.
+</div>
+
 <!-- <br>
 <br> -->
 
