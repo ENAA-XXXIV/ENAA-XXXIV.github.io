@@ -13,14 +13,14 @@ Abstract submission is now over, look at some statistics <a href=abstract_stats 
 </div>
 <br>
 
-<div style="text-align: center; font-size: 28px; font-weight: bold">
+<div style="text-align: center; font-size: 30px; font-weight: bold">
 The conference program is available <a href=program  style="color: #00b050"> here</a>
 </div> 
 <br>
 
 <div style="text-align: center; font-size: 22px; font-weight: bold">
-Find information on the conference dinner and other useful tips <a href=program  style="color: #00b050"> here</a>
-d</div> 
+Information on the conference dinner and other useful tips is <a href=program  style="color: #00b050"> here</a>
+</div> 
 <br>
 
 
