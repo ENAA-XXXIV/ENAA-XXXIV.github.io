@@ -17,8 +17,8 @@
     </script>
     <style>
         div.gallery {
-            margin-bottom: 50px;
-            margin-top: 50px;
+            margin-bottom: 60px;
+            margin-top: 60px;
             margin-left: 10px;
             margin-right: 10px;
             border: 1px solid #ccc;
@@ -74,38 +74,48 @@ You can find a gallery of the posters for this conference below. Click on the im
     <img src="assets/posters/poster-id-2.png" alt="Poster <i>Product Design for Scientific Literacy: development of a multifunctional orrery for cognitive stimulation</i> by F. Alves">
 </a>
 <div class="name">F. Alves</div>
-<div>
+<div class="desc">
 <a href="https://enaa-xxxiv.github.io/abstract_book#abs-2"> Product Design for Scientific Literacy: development of a multifunctional orrery for cognitive stimulation </a>
 </div>
 </div>
 
 <div class="gallery">
-<a target="_blank" href="assets/posters/poster-id-12.pdf">
-    <img src="assets/posters/poster-id-12.png" alt="Poster <i>OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO</i> by T. Canhota">
+<a target="_blank" href="assets/posters/poster-id-10.pdf">
+    <img src="assets/posters/poster-id-10.png" alt="Poster <i>Exploring  the Radio Properties of AGN using the Million Quasar Catalogue</i> by L. Barroso">
+</a>
+<div class="name">L. Barroso</div>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-10"> Exploring  the Radio Properties of AGN using the Million Quasar Catalogue </a>
+</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="assets/posters/poster-id-13.pdf">
+    <img src="assets/posters/poster-id-13.png" alt="Poster <i>OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO</i> by T. Canhota">
 </a>
 <div class="name">T. Canhota</div>
-<div>
-<a href="https://enaa-xxxiv.github.io/abstract_book#abs-12"> OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO </a>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-13"> OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO </a>
 </div>
 </div>
 
 <div class="gallery">
-<a target="_blank" href="assets/posters/poster-id-45.pdf">
-    <img src="assets/posters/poster-id-45.png" alt="Poster <i>The stellar activity in stars with exoplanets</i> by T. Monteiro">
+<a target="_blank" href="assets/posters/poster-id-47.pdf">
+    <img src="assets/posters/poster-id-47.png" alt="Poster <i>The stellar activity in stars with exoplanets</i> by T. Monteiro">
 </a>
 <div class="name">T. Monteiro</div>
-<div>
-<a href="https://enaa-xxxiv.github.io/abstract_book#abs-45"> The stellar activity in stars with exoplanets </a>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-47"> The stellar activity in stars with exoplanets </a>
 </div>
 </div>
 
 <div class="gallery">
-<a target="_blank" href="assets/posters/poster-id-66.pdf">
-    <img src="assets/posters/poster-id-66.png" alt="Poster <i>A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk</i> by S. Vicente">
+<a target="_blank" href="assets/posters/poster-id-67.pdf">
+    <img src="assets/posters/poster-id-67.png" alt="Poster <i>A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk</i> by S. Vicente">
 </a>
 <div class="name">S. Vicente</div>
-<div>
-<a href="https://enaa-xxxiv.github.io/abstract_book#abs-66"> A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk </a>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-67"> A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk </a>
 </div>
 </div>
 
