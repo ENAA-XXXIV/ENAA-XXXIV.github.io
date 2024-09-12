@@ -14,7 +14,6 @@ There are two entrance points for the conference venue, as indicated in the imag
 
 <p align="center">
     <img src="assets/images/EntradasFraterna.png" alt="Entradas Fraterna" style="width: 100%; height: auto;">
-  </a>
 </p>
 
 <br>

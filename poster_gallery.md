@@ -80,6 +80,16 @@ You can find a gallery of the posters for this conference below. Click on the im
 </div>
 
 <div class="gallery">
+<a target="_blank" href="assets/posters/poster-id-8.pdf">
+    <img src="assets/posters/poster-id-8.png" alt="Poster <i>Modeling the Sun's radial velocity with SOAP using SDO observations: comparison with HELIOS radial velocity data.</i> by A. Barka">
+</a>
+<div class="name">A. Barka</div>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-8"> Modeling the Sun's radial velocity with SOAP using SDO observations: comparison with HELIOS radial velocity data. </a>
+</div>
+</div>
+
+<div class="gallery">
 <a target="_blank" href="assets/posters/poster-id-10.pdf">
     <img src="assets/posters/poster-id-10.png" alt="Poster <i>Exploring  the Radio Properties of AGN using the Million Quasar Catalogue</i> by L. Barroso">
 </a>
@@ -96,6 +106,16 @@ You can find a gallery of the posters for this conference below. Click on the im
 <div class="name">T. Canhota</div>
 <div class="desc">
 <a href="https://enaa-xxxiv.github.io/abstract_book#abs-13"> OLHANDO O FIRMAMENTO: A OBSERVAÇÃO ASTRONÓMICA NO ATUAL TERRITÓRIO PORTUGUÊS DURANTE O NEOLÍTICO </a>
+</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="assets/posters/poster-id-17.pdf">
+    <img src="assets/posters/poster-id-17.png" alt="Poster <i>CosmoGen: Genetic Algorithm-Based Exploration of Dark Energy Dynamics</i> by D. Castelão">
+</a>
+<div class="name">D. Castelão</div>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-17"> CosmoGen: Genetic Algorithm-Based Exploration of Dark Energy Dynamics </a>
 </div>
 </div>
 
