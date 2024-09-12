@@ -9,6 +9,15 @@ The conference will take place at [Fraterna](https://www.fraterna.org/), located
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d503.56742358285464!2d-8.293301414995154!3d41.439106257514055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24efc45faa6439%3A0x588b0f7873ad0517!2sFraterna-%20Centro%20Comunit%C3%A1rio%20de%20Solidariedade%20e%20Integra%C3%A7%C3%A3o%20Social!5e1!3m2!1sen!2spt!4v1712607980540!5m2!1sen!2spt" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br>
+
+There are two entrance points for the conference venue, as indicated in the image below.
+
+<p align="center">
+    <img src="assets/images/EntradasFraterna.png" alt="Entradas Fraterna" style="width: 100%; height: auto;">
+  </a>
+</p>
+
+<br>
 <br>
 
 ## Conference Dinner
