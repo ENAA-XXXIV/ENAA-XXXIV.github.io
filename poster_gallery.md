@@ -110,6 +110,16 @@ You can find a gallery of the posters for this conference below. Click on the im
 </div>
 
 <div class="gallery">
+<a target="_blank" href="assets/posters/poster-id-52.pdf">
+    <img src="assets/posters/poster-id-52.png" alt="Poster <i>AstroLingua: expanding inclusivity for extragalactic astronomy outreach</i> by A. Paulino-Afonso">
+</a>
+<div class="name">A. Paulino-Afonso</div>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-52"> AstroLingua: expanding inclusivity for extragalactic astronomy outreach </a>
+</div>
+</div>
+
+<div class="gallery">
 <a target="_blank" href="assets/posters/poster-id-67.pdf">
     <img src="assets/posters/poster-id-67.png" alt="Poster <i>A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk</i> by S. Vicente">
 </a>
