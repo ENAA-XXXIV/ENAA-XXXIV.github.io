@@ -140,12 +140,32 @@ You can find a gallery of the posters for this conference below. Click on the im
 </div>
 
 <div class="gallery">
+<a target="_blank" href="assets/posters/poster-id-62.pdf">
+    <img src="assets/posters/poster-id-62.png" alt="Poster <i>Towards a comprehensive method for detecting broadband transmission spectra of exoplanets using high-resolution transmission spectroscopy   </i> by M. Sousa">
+</a>
+<div class="name">M. Sousa</div>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-62"> Towards a comprehensive method for detecting broadband transmission spectra of exoplanets using high-resolution transmission spectroscopy    </a>
+</div>
+</div>
+
+<div class="gallery">
 <a target="_blank" href="assets/posters/poster-id-67.pdf">
     <img src="assets/posters/poster-id-67.png" alt="Poster <i>A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk</i> by S. Vicente">
 </a>
 <div class="name">S. Vicente</div>
 <div class="desc">
 <a href="https://enaa-xxxiv.github.io/abstract_book#abs-67"> A JWST IFU deep study of gas, dust, and PAHs in a prototypical externally illuminated protoplanetary disk </a>
+</div>
+</div>
+
+<div class="gallery">
+<a target="_blank" href="assets/posters/poster-id-69.pdf">
+    <img src="assets/posters/poster-id-69.png" alt="Poster <i>Quenching Through the Eyes of MOONS</i> by E. Worrell">
+</a>
+<div class="name">E. Worrell</div>
+<div class="desc">
+<a href="https://enaa-xxxiv.github.io/abstract_book#abs-69"> Quenching Through the Eyes of MOONS </a>
 </div>
 </div>
 
